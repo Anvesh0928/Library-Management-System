@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "password": "Admin@123",
+      "role": "admin"
+    },
+    {
+      "name": "Student User",
+      "email": "student@example.com",
+      "password": "Student@123",
+      "role": "student"
+    }
+  ],
+  "books": [
+    {
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Programming",
+      "isbn": "9780132350884",
+      "quantity": 5,
+      "description": "A handbook of agile software craftsmanship."
+    },
+    {
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt, David Thomas",
+      "category": "Programming",
+      "isbn": "9780201616224",
+      "quantity": 3,
+      "description": "Journey to mastery in software development."
+    }
+  ]
+}
+
